@@ -1,0 +1,5 @@
+#user input while loop  
+ x=int(input("enter any number=")) 
+ while(x<=50):   #condition  
+ print("welcome to india ") 
+ x=x+1 
